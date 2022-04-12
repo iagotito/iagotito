@@ -19,3 +19,7 @@
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </a>
 </div>
+
+##
+
+![Snake animation](https://github.com/iagotito/iagotito/blob/output/github-contribution-grid-snake.svg)
