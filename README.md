@@ -20,6 +20,12 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38673719/164735969-31e9464f-8810-498a-b801-127786ad778e.gif" />
+</div>
+
 ##
 
 ![Snake animation](https://github.com/iagotito/iagotito/blob/output/github-contribution-grid-snake.svg)
